@@ -1039,3 +1039,35 @@ body {
   position: relative;
   top: -19px;
 }
+
+
+.bt-glyphicons {
+	margin:0;
+	overflow:hidden;
+}
+.bt-glyphicons-list {
+	margin: 0;
+	padding:0;
+	list-style:none;
+}
+.bt-glyphicons li {
+	float:left;
+	width:33%;
+	height:75px;
+	padding:15px;
+	font-size:16px;
+	line-height:1.4;
+	text-align:center;
+	border:1px solid #fff;
+	background-color:#f1f1f1;
+}
+.bt-glyphicons .glyphicon {
+	margin: 5px;
+	font-size:16px;
+}
+
+
+.pad-50 {
+  margin-bottom: 60px;
+  padding: 60px;
+}
